@@ -1,7 +1,7 @@
 {
   "name": "vaco-time",
   "version": "1.0.0",
-  "description": "timesheet parser for bullhorn vaco",
+  "description": "Parses vaco excel reports for a quick peak at total hours worked. ",
   "main": "lib/index.js",
   "bin": {
     "vaco-time": "bin/vaco-time.js"

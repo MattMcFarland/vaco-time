@@ -1,5 +1,5 @@
 # vaco-time
-A cli tool made with Node.js to parse an excel timesheet that returns total hours worked.
+A command line script made with node.js that parses excel files produce by vaco/bullhorn inorder to easily quantify the total amount of hours worked.
 
 ## Why?
 
