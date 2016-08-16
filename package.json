@@ -1,6 +1,6 @@
 {
   "name": "vaco-time",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Parses vaco excel reports for a quick peak at total hours worked. ",
   "main": "lib/index.js",
   "bin": {
@@ -9,7 +9,11 @@
   "scripts": {
     "test": "standard lib bin | snazzy"
   },
-  "keywords": ["vaco", "timesheet", "bullhorn"],
+  "keywords": [
+    "vaco",
+    "timesheet",
+    "bullhorn"
+  ],
   "author": "Matt McFarland",
   "license": "MIT",
   "devDependencies": {
